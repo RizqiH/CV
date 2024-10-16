@@ -111,10 +111,6 @@ export default function Page() {
                       {work.start} - {work.end ?? "Present"}
                     </div>
                   </div>
-
-                  <h4 className="font-mono text-sm leading-none print:text-[12px]">
-                    {work.title}
-                  </h4>
                 </CardHeader>
                 <CardContent className="mt-2 text-xs print:text-[10px]">
                   {work.description}
