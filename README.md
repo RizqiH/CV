@@ -2,7 +2,7 @@
 
 <h1 align="center">Minimalist Academic CV</h1>
 <p align="center">
-  <img src="https://github.com/AlaaAlzahrani/minimal-cv/blob/main/public/page_shot.png" alt="cv">
+  <img src="https://github.com/Rizqih/minimal-cv/blob/main/public/page_shot.png" alt="cv">
 </p>
 
 
@@ -13,7 +13,7 @@ This CV template is a reformulation of an [existing minimalist CV](https://githu
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/AlaaAlzahrani/minimal-cv.git
+   git clone https://github.com/Rizqih/minimal-cv.git
    ```
 
 2. Change directory to the cloned directory

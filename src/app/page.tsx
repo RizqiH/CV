@@ -10,8 +10,8 @@ import { ProjectCard } from "@/components/project-card";
 import { PublicationCard } from "@/components/publication-card";
 
 export const metadata: Metadata = {
-  title: "Alaa Alzahrani | Personal CV",
-  description: "Alaa's CV",
+  title: "M Rizqi Amanan H | Personal CV",
+  description: "Rizqi's CV",
 };
 
 export default function Page() {
@@ -160,23 +160,7 @@ export default function Page() {
           </div>
         </Section>
 
-        <Section>
-          <h2 className="text-xl font-bold">Publications</h2>
-          <div className="-mx-3 grid grid-cols-1 gap-3 print:grid-cols-2 print:gap-2 md:grid-cols-2">
-            {RESUME_DATA.publications.map((publication) => {
-              return (
-                <PublicationCard
-                  key={publication.title}
-                  title={publication.title}
-                  journal={publication.journal}
-                  year={publication.year}
-                  link={publication.link}
-                  status={publication.status}
-                />
-              );
-            })}
-          </div>
-        </Section>
+
 
         <Section className="print-force-new-page scroll-mb-16">
           <h2 className="text-xl font-bold">Projects</h2>

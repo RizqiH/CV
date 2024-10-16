@@ -35,16 +35,16 @@ export const RESUME_DATA = {
     "Experimental researcher, statistical modeler, and programmer with a PhD in Applied Linguistics.",
   summary:
     "Saya Muh. Rizqi Amanan Habibullah, seorang mahasiswa Universitas Pembangunan Nasional Veteran Jawa Timur jurusan Informatika. Seseorang yang menyukai kegiatan yang berhubungan dengan menulis dan dapat dikembangkan menjadi karya yang bermanfaat seperti copywriting. Selain itu, di sekolah saya fokus belajar tentang UI/UX Design dan Web Development.",
-  avatarUrl: "https://i.imgur.com/1BlYBfs.png",
-  personalWebsiteUrl: "https://alaaalzahrani.github.io/",
+  avatarUrl: "https://i.imgur.com/5rH5fNx.jpeg",
+  personalWebsiteUrl: "",
   contact: {
-    email: "alzahrani.alaaa@gmail.com",
+    email: "rizkiamanan@gmail.com",
     social: [
       {
         name: "GitHub",
         url: "https://github.com/RizqiH",
         icon: GitHubIcon,
-      },git remote -v
+      },
 
       {
         name: "LinkedIn",
@@ -53,7 +53,7 @@ export const RESUME_DATA = {
       },
       {
         name: "X",
-        url: "https://x.com/zahrani_alaa",
+        url: "",
         icon: XIcon,
       },
     ],
