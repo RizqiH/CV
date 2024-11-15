@@ -48,7 +48,7 @@ export const RESUME_DATA = {
 
       {
         name: "LinkedIn",
-        url: "",
+        url: "https://www.linkedin.com/in/rizki-amanan/",
         icon: LinkedInIcon,
       },
       {
