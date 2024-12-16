@@ -32,9 +32,9 @@ export const RESUME_DATA = {
   location: "Surabaya, Jawa Timur",
   locationLink: "https://www.google.com/maps/place/Riyadh",
   about:
-    "Experimental researcher, statistical modeler, and programmer with a PhD in Applied Linguistics.",
+    "experienced in Web Developer and Software Engineering.",
   summary:
-    "Saya Muh. Rizqi Amanan Habibullah, seorang mahasiswa Universitas Pembangunan Nasional Veteran Jawa Timur jurusan Informatika. Seseorang yang menyukai kegiatan yang berhubungan dengan menulis dan dapat dikembangkan menjadi karya yang bermanfaat seperti copywriting. Selain itu, di sekolah saya fokus belajar tentang UI/UX Design dan Web Development.",
+    "I am Muh. Rizqi Amanan Habibullah, a student of Universitas Pembangunan Nasional Veteran East Java majoring in Informatics. Someone who likes activities related to writing and can be developed into useful works such as copywriting. In addition, at school I focus on learning about UI/UX Design and Web Development.",
   avatarUrl: "https://i.imgur.com/5rH5fNx.jpeg",
   personalWebsiteUrl: "",
   contact: {
@@ -75,7 +75,7 @@ export const RESUME_DATA = {
   work: [
     {
       company: "MARK DESIGN",
-      link: "https://feathersa.com/",
+      link: "https://markdesign.net/",
       badges: ["Internship"],
       logo: ConsultlyLogo,
       start: "26 Juli 2022",
@@ -87,10 +87,12 @@ export const RESUME_DATA = {
   skills: [
     "Critical thinking",
     "Problem solving",
-    "Experimental design",
-    "Statistics",
-    "R",
-    "Python",
+    "Javascript",
+    "Laravel",
+    "PHP",
+    "VueJS",
+    "NodeJS",
+    "ExpressJS",
     "TypeScript",
     "React/Next.js",
     "SQL/Firebase",
@@ -100,7 +102,7 @@ export const RESUME_DATA = {
     {
       title: "Village Website",
       techStack: ["NextJS", "ExpressJS", "Firebase"],
-      description: "Sebuah Web Profile Desa",
+      description: "A Village Web Profile",
       logo: MonitoLogo,
       link: {
         label: "Village Website",
